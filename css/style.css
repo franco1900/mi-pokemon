@@ -1,0 +1,36 @@
+.fondo{
+  background:url(https://www.eluniverso.com/sites/default/files/styles/powgallery_1024/public/fotos/2016/08/landscape-1456483171-pokemon2.jpg?itok=Pjn52Z6i);
+}
+.misley{
+  color: white;
+  font: fantasy;
+  width: 350px;
+
+
+}
+.dane{
+  background:pink;
+  	border-radius: 0% ;
+  	width: 200px;
+  	height:200px;
+    border:5px;
+    margin: 10px;
+    padding: 5px;
+
+  }
+h1{
+  background:black;
+  border-radius: 0%;
+  width:500px;
+  height:70px;
+  color:white;
+}
+.daneli{
+  box-shadow: 1px 1px 0px black;
+  color: black;
+  width: 85px;
+  height:30px;
+  background: #DFD185;
+  position: center;
+
+}
